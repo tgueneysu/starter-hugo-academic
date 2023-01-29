@@ -1,3 +1,4 @@
+
 ---
 # Leave the homepage title empty to use the site title
 title: Tim Güneysu
@@ -7,7 +8,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Tim Güneysu
+      title: Hugo Academic Theme
       image:
         filename: hero-academic.png
       cta:
