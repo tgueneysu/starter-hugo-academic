@@ -5,8 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  - block: about.avatar
+    id: biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: tim
