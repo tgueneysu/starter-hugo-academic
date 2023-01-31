@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tim Güneysu 吳恩達
+title: Tim Güneysu
 
 # Full name (for SEO)
 first_name: Tim
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Security Engineering
+role: Professor for Security Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am professor for Security Engineering and speaker of the Horst-Görtz Institute for IT-Security (HGI) at Ruhr-Universität Bochum. With more than 30 dedicated professorships and A the cluster of excellence CASA, the HGI at Bochum is one of the security hot spot in Europe. I am working on a wide range of topics from applied cryptography, secure processor architectures and hardware security. 
 {style="text-align: justify;"}
