@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Tim Güneysu
+      title: About Me
       image:
         filename: hero-academic.png
         text: |-
