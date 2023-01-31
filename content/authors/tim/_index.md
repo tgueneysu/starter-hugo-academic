@@ -22,26 +22,27 @@ organizations:
     url: https://informatik.rub.de/seceng
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am professor for Security Engineering and speaker of the Horst-Görtz Institute for IT-Security (HGI) at Ruhr-Universität Bochum. With more than 30 dedicated professorships and A the cluster of excellence CASA, the HGI at Bochum is one of the security hot spot in Europe. I am working on a wide range of topics from applied cryptography, secure processor architectures and hardware security. 
+bio: I am professor for Security Engineering and speaker of the Horst-Görtz Institute for IT-Security (HGI) at Ruhr-Universität Bochum.  
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Cryptography
+  - Secure Processor Architectures
+  - Physical Attacks and Countermeasures
+  - Hardware Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Electrical Engineering and Information Technology
+      institution: Ruhr-Universität Bochum
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Diploma in IT-Security
+      institution:  Ruhr-Universität Bochum
+      year: 2006
+    - course: Diploma in Information Technology 
+      institution: University of Cooperative Education Mannheim
+      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,18 +52,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=QrXiIS0AAAAJ&hl=de
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Chair-for-Security-Engineering
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -74,7 +69,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'tim.gueneysu@rub.de'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
