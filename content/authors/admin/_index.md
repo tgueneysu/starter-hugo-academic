@@ -22,7 +22,7 @@ organizations:
     url: https://informatik.rub.de/seceng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am professor for Security Engineering and speaker of the Horst-Görtz Institute for IT-Security (HGI) at Ruhr-Universität Bochum. With more than 30 dedicated professorships and A the cluster of excellence CASA, the HGI at Bochum is one of the security hot spot in Europe. I am working on a wide range of topics from applied cryptography, secure processor architectures and hardware security. 
 
 # Interests to show in About widget
 interests:

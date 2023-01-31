@@ -5,22 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: About Me
-      image:
-        filename: gueneysu-web.jpg
-        text: |-
-          I am professor for Security Engineering and speaker of the Horst-Görtz Institute for IT-Security (HGI) at Ruhr-Universität Bochum. With more than 30 dedicated professorships and A the cluster of excellence CASA, the HGI at Bochum is one of the security hot spot in Europe.  The research at my chair for Security Engineering is working on a wide range of topics from applied cryptography, secure processor architectures and hardware security. 
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
-     design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
   - block: about.avatar
     id: about
     content:
