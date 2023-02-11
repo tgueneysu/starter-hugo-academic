@@ -26,8 +26,11 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Ruhr-Universität Bochum
+  - name: Ruhr-Universität Bochum - Horst-Görtz Institute for IT-Security
     url: https://informatik.rub.de/seceng
+  - name: German Research Center for Artificial Intelligence (DFKI) - Cyber Physical
+      Systems - Bremen
+    url: https://www-cps.hb.dfki.de/home
 education:
   courses:
     - course: PhD in Electrical Engineering and Information Technology
