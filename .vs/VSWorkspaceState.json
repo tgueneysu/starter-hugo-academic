@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\media",
+    "\\config\\_default",
+    "\\content",
+    "\\content\\admin",
+    "\\content\\authors",
+    "\\content\\authors\\tim"
   ],
-  "SelectedNode": "\\D:\\Cloud Drive\\Tim\\Documents\\Homepage\\wowchemy",
+  "SelectedNode": "\\content\\_index.md",
   "PreviewInSolutionExplorer": false
 }
