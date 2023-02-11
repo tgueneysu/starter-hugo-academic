@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-   widget: about
+  - block: about
      headless: true  # This file represents a page section.
 
      # Put Your Section Options Here (title, background etc.)
