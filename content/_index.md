@@ -6,15 +6,13 @@ type: landing
 
 sections:
   - block: about
-     headless: true  # This file represents a page section.
-
-     # Put Your Section Options Here (title, background etc.)
-     title: Biography
-     weight: 10 # Position of section on page
-
-     # Choose the user profile to display
-     # This should be the username (folder name) of a profile in your `content/authors/` folder.
-     author: 'tim'
+    id: biography
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: tim
+      # Override your bio text from `authors/admin/_index.md`?
+      design:
+      columns: '2'
 
   - block: experience
     content:
