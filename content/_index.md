@@ -5,6 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: about
+    author: tim
   - block: experience
     content:
       title: Experience
